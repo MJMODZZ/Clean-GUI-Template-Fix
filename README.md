@@ -38,7 +38,7 @@ This is made by [Callumgm](https://github.com/Callumgm/Cookies-Clean-GUI-Base/).
 
 | Login Form Preview | 
 | ------------- | 
-| ![Login Form Preview]([https://github.com/MJMODZZ/Cookies-Clean-GUI-Base-Fix/blob/master/png/Login_preview.png](https://raw.githubusercontent.com/MJMODZZ/Clean-GUI-Template-Fix/main/Tester/Resources/Login_preview.png)) |
+| ![Login Form Preview](https://raw.githubusercontent.com/MJMODZZ/Clean-GUI-Template-Fix/main/Tester/Resources/Login_preview.png) |
 
 ## Change Log
 ### 22/05/20222
