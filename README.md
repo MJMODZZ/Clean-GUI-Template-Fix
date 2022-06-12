@@ -1,7 +1,7 @@
 # Clean Winforms GUI Template (Fix)
 
 <p align="center">
-  <a href="https://github.com/falc0n2222/Cookies-Clean-GUI-Base/graphs/commit-activity">
+  <a href="https://github.com/MJMODZZ/Clean-GUI-Template-Fix/graphs/commit-activity">
     <img src="https://img.shields.io/badge/maintained-very little-success?style=flat-square" alt="Maintained yes" />
   </a>
 </p>
@@ -24,9 +24,9 @@ This is made by [Callumgm](https://github.com/Callumgm/Cookies-Clean-GUI-Base/).
 ## How to fix Bunifu errors
 - Download these 2 files:
 
-[Bunifu.Core.dll](https://cdn.discordapp.com/attachments/946881469844946984/958073286061867018/Bunifu.Core.dll)
+[Bunifu.Core.dll](https://github.com/MJMODZZ/Clean-GUI-Template-Fix/raw/main/Bunifu%20DLLs/Bunifu.Core.dll)
 <br>
-[Bunifu_UI_v1.5.3.dll](https://cdn.discordapp.com/attachments/946881469844946984/958073286548394095/Bunifu_UI_v1.5.3.dll)
+[Bunifu_UI_v1.5.3.dll](https://github.com/MJMODZZ/Clean-GUI-Template-Fix/raw/main/Bunifu%20DLLs/Bunifu_UI_v1.5.3.dll)
 <br>
 (For this to be the exact same you need to have Visual Studio 2019 and not 2022 (Worked for me on Visual Studio 2022, u have to try by urself))
 <br>
@@ -38,7 +38,7 @@ This is made by [Callumgm](https://github.com/Callumgm/Cookies-Clean-GUI-Base/).
 
 | Login Form Preview | 
 | ------------- | 
-| ![Login Form Preview](https://raw.githubusercontent.com/MJMODZZ/Clean-GUI-Template-Fix/main/Tester/Resources/Login_preview.png) |
+| ![Login Form Preview](https://media.discordapp.net/attachments/977051840367693834/983849257280888932/unknown.png) |
 
 ## Change Log
 ### 22/05/20222
