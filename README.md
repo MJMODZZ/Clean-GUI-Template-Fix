@@ -47,14 +47,9 @@ This is made by [Callumgm](https://github.com/Callumgm/Cookies-Clean-GUI-Base/).
 - Fixed a bunch of minor errors when trying to build the project
 
 ## License
-Copyright <2022> <COOKIESKUSH420> / Fixed by MJMODZZ
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+MJMODZZ & Callumgm Clean-GUI-Template is using the [MIT License](https://github.com/MJMODZZ/Clean-GUI-Template-Fix/blob/main/LICENSE). 
+For special [License](https://github.com/MJMODZZ/Clean-GUI-Template-Fix/blob/main/LICENSE) Questions please ask Callumgm per [EMAIL](callumgm20052005@gmail.com) or create a [Issue](https://github.com/Callumgm/Clean-GUI-Template/issues/new/choose)
 
 ## Contact
-Email - callumgm20052005@gmail.com
-Email MJMODZZ - mjmodzz@outlook.com
+- Email - callumgm20052005@gmail.com
+- Email MJMODZZ - mjmodzz@outlook.com
