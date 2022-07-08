@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.3-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/kefranabg/readme-md-generator#readme" target="_blank">
   </a>
-  <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
+  <a href="https://github.com/MJMODZZ/Clean-GUI-Template-Fix/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-no-red.svg" />
   </a>
   <a href="https://github.com/MJMODZZ/Clean-GUI-Template/blob/master/LICENSE" target="_blank">
@@ -17,7 +17,6 @@
 > This is a FIX of [Callumgm´s Clean-Gui-Base](https://github.com/Callumgm/Clean-GUI-Template/) Fixed by MJMODS. The original Source has some Errors in it, This is a Full Fix + Bunifu UI Dlls + Every Ressource Files which are missing in the Callumgm´s Version.
 > Simple and clean WinForms GUI created in my own spare time
 
-### 🏠 [Homepage](http://cookiesservices.xyz/)
 ### 🏠 [Homepage](http://cookiesservices.xyz/)
 
 ## Usage
