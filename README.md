@@ -1,55 +1,69 @@
-# Clean Winforms GUI Template (Fix)
-
-<p align="center">
-  <a href="https://github.com/MJMODZZ/Clean-GUI-Template-Fix/graphs/commit-activity">
-    <img src="https://img.shields.io/badge/maintained-very little-success?style=flat-square" alt="Maintained yes" />
+<h1 align="center">Welcome to Clean GUI Template 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.3-blue.svg?cacheSeconds=2592000" />
+  <a href="https://github.com/kefranabg/readme-md-generator#readme" target="_blank">
+  </a>
+  <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-no-red.svg" />
+  </a>
+  <a href="https://github.com/MJMODZZ/Clean-GUI-Template/blob/master/LICENSE" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" />
+  </a>
+  <a href="https://twitter.com/Flashouttt" target="_blank">
+    <img alt="Twitter: Flashouttt" src="https://img.shields.io/twitter/follow/Flashouttt.svg?style=social" />
   </a>
 </p>
 
-## Info
-This is made by [Callumgm](https://github.com/Callumgm/Cookies-Clean-GUI-Base/). the reason why I have this in my GitHub is because the origional one from Callumgm has many Errors and doesnt work perfectly. My version is the exact same version but just with the fixed errors. The errors was caused by missing Ressouce files which I extended. The missing souce files was rain_L.png, puddle.png and cloud.png. I also added the login_preview.png file which you dont need.
+> This is a FIX of [Callumgm´s Clean-Gui-Base](https://github.com/Callumgm/Clean-GUI-Template/) Fixed by MJMODS. The original Source has some Errors in it, This is a Full Fix + Bunifu UI Dlls + Every Ressource Files which are missing in the Callumgm´s Version.
+> Simple and clean WinForms GUI created in my own spare time
 
-- This is just a template!
-- The only functions included are a **Simple Login System** & **A clean dashboard page**
-- You may use this for whatever u want! `u can give credit if u wish :) (Also to me, MJMODZZ) `
-- Make sure to join [MJMODZZ Discord](https://dsc.gg/mjmodzz)
+### 🏠 [Homepage](http://cookiesservices.xyz/)
+### 🏠 [Homepage](http://cookiesservices.xyz/)
 
-## Build from source
+## Usage
+
+```
 1. Download or Gitclone this project
-2. Open `Tester.sln` with Visual Studio 2019
-3. Add the Bunfiu
-3. Open `FrmLogin.cs` and add your raw paste bin url on **line 58**
-4. Build / Run the project (any problems feel free to contact me)
+2. Open Tester.sln with Visual Studio 2019
+3. Add the Bunfiu files
+4. Open FrmLogin.cs and add your raw paste bin url near line 58
+5. Build / Run the project
+```
 
 ## How to fix Bunifu errors
-- Download these 2 files:
 
 [Bunifu.Core.dll](https://github.com/MJMODZZ/Clean-GUI-Template-Fix/raw/main/Bunifu%20DLLs/Bunifu.Core.dll)
 <br>
 [Bunifu_UI_v1.5.3.dll](https://github.com/MJMODZZ/Clean-GUI-Template-Fix/raw/main/Bunifu%20DLLs/Bunifu_UI_v1.5.3.dll)
-<br>
-(For this to be the exact same you need to have Visual Studio 2019 and not 2022 (Worked for me on Visual Studio 2022, u have to try by urself))
-<br>
-1. Left click on project then click "Add Reference"
-2. And there at bottom of menu you can find Browse
-3. You click on it and select the dll's then press OK
 
-<br>
+```
+1. Download the dll files
+2. Left click on project then click "Add Reference"
+3. And there at bottom of menu you can find Browse
+4. Click it and select both dll files then press OK
+5. Error should be fixed (rebuild the project)
+```
 
-| Login Form Preview | 
-| ------------- | 
-| ![Login Form Preview](https://media.discordapp.net/attachments/977051840367693834/983849257280888932/unknown.png) |
+## Author
 
-## Change Log
-### 22/05/20222
-- Added Simple "animation" when hovering over the close and other little white buttons
-- Removed HWID from whole project and changed to just PC username and passwords
-- Fixed a bunch of minor errors when trying to build the project
+👤 **CookiesKush420**
 
-## License
-MJMODZZ & Callumgm Clean-GUI-Template is using the [MIT License](https://github.com/MJMODZZ/Clean-GUI-Template-Fix/blob/main/LICENSE). 
-For special [License](https://github.com/MJMODZZ/Clean-GUI-Template-Fix/blob/main/LICENSE) Questions please ask Callumgm per [EMAIL](callumgm20052005@gmail.com) or create a [Issue](https://github.com/Callumgm/Clean-GUI-Template/issues/new/choose)
+* Website: http://cookiesservices.xyz/
+* Twitter: [@Flashouttt](https://twitter.com/Flashouttt)
+* GitHub: [@Callumgm](https://github.com/Callumgm)
+* MJMODS DISCORD: [@MJMODS](https://dsc.gg/mjmodzz)
+* MJMODS GitHub: [@MJMODS](https://github.com/mjmodzz)
 
-## Contact
-- Email - callumgm20052005@gmail.com
-- Email MJMODZZ - mjmodzz@outlook.com
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Callumgm/Clean-GUI-Template/issues). 
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2022 [CookiesKush420](https://github.com/Callumgm).<br />
+Fix Copyright © 2022 [MJMODS](https://github.com/MJMODZZ).<br />
+This project is [MIT](https://github.com/Callumgm/Clean-GUI-Template/blob/master/LICENSE) licensed.
